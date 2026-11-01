@@ -1,3 +1,7 @@
+![Pastor Wants A Wife — N.White Systems engineering portfolio](assets/portfolio-brand.svg)
+
+[Portfolio overview](https://github.com/whitemorengwira) · [All case studies](https://github.com/whitemorengwira/nwhitesystems) · [N.White Systems](https://nwhite.systems/)
+
 # Pastor Wants A Wife — Production Engineering & Workflow Architecture
 ## DStv · Mzansi Magic · Channel 161 · Film & TV · Client: Connect TV
 
